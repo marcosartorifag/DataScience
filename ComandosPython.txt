@@ -1,0 +1,9 @@
+Comandos Python
+
+Acessar Jupyter (Ele tem que ficar aberto o tempo todo)
+>>> cd C:/Projetos
+>>> jupyter notebook
+
+Acessar o Shell
+>>> cd C:/Projetos
+>>> idle
