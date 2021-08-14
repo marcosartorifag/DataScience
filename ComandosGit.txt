@@ -12,3 +12,11 @@ git commit -m "Esse foi o primeiro commit desse arquivo" Procedure_WRK.sql
 Efetivação do commit
 git push -u origin main
 
+Criar nova branch
+git branch nome_da_branch
+
+Saber quantas branchs tem (o * indica em qual estamos)
+git branch
+
+Trocar de branch
+git branch checkout nome_da_branch
