@@ -1,0 +1,14 @@
+Mapeamento do repositório
+git config --global user.name "msartoridc"
+git config --global user.email "msartoridc@gmail.com"
+git clone https://github.com/msartoridc/DataScience.git
+
+Adição do arquivo
+git add Procedure_WRK.sql
+
+Adição da marca de commit
+git commit -m "Esse foi o primeiro commit desse arquivo" Procedure_WRK.sql 
+
+Efetivação do commit
+git push -u origin main
+
